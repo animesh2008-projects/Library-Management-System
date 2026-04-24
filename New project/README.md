@@ -1,4 +1,4 @@
-﻿# ABS Academy Of Management and Health Science Library Management Portal
+﻿Library Management Portal
 
 Made by Animesh Karmakar
 
