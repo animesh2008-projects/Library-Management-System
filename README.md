@@ -1,5 +1,4 @@
-## see preview by using :
- library-portal-page.netlify.app
+
 
 # Library-Management-System
 ##### Library Management Portal
