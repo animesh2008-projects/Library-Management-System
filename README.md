@@ -6,21 +6,21 @@ Made by Animesh Karmakar
 
 A complete browser-based library management system with:
 
-Admin login and dashboard
-Student login and dashboard
-Login ID + password authentication
-Book catalogue management
-Student account management
-Student contact number management from the admin panel
-Book issue and return tracking
-Due-soon and overdue monitoring
-Admin profile editing for name, username, and email
-Admin option to edit the college name and portal branding
-Digital student library cards with QR code preview
-Save student library cards through the browser's PDF export flow
-College-branded portal for ABS Academy Of Management and Health Science
-Polished animations and motion-enhanced interface styling
-Local browser persistence with seeded demo data
+- Admin login and dashboard
+- Student login and dashboard
+- Login ID + password authentication
+- Book catalogue management
+- Student account management
+- Student contact number management from the admin panel
+- Book issue and return tracking
+- Due-soon and overdue monitoring
+- Admin profile editing for name, username, and email
+- Admin option to edit the college name and portal branding
+- Digital student library cards with QR code preview
+- Save student library cards through the browser's PDF export flow
+- College-branded portal for ABS Academy Of Management and Health Science
+- Polished animations and motion-enhanced interface styling
+- Local browser persistence with seeded demo data
 ### Default login credentials
 # Admin
 - Login ID: admin01
