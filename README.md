@@ -2,7 +2,7 @@
 
 # Library-Management-System
 ##### Library Management Portal
-Made by Animesh Karmakar
+###### Made by Animesh Karmakar
 
 A complete browser-based library management system with:
 
