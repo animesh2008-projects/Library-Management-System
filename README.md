@@ -23,17 +23,17 @@ Polished animations and motion-enhanced interface styling
 Local browser persistence with seeded demo data
 ### Default login credentials
 # Admin
-Login ID: admin01
-Password: Admin@123
+- Login ID: admin01
+- Password: Admin@123
 # Student
-Login ID: STU1001
-Password: Student@123
+- Login ID: STU1001
+- Password: Student@123
 ## How to run
-Open index.html in any modern browser.
-Sign in with one of the demo accounts.
-Use the admin panel to add more books, edit admin profile details, create student accounts with contact numbers, and generate digital student library cards.
-Use the student account page to view and export the student's own digital library card.
-Notes
-The app is intentionally built with plain HTML, CSS, and JavaScript so it runs without installing dependencies.
-Data is stored in localStorage, so your changes stay in that browser until you clear site storage.
-PDF export uses your browser's print dialog, where you can choose Save as PDF.
+- Open index.html in any modern browser.
+- Sign in with one of the demo accounts.
+- Use the admin panel to add more books, edit admin profile details, create student accounts with contact numbers, and generate digital student library cards.
+- Use the student account page to view and export the student's own digital library card.
+## Notes
+- The app is intentionally built with plain HTML, CSS, and JavaScript so it runs without installing dependencies.
+- Data is stored in localStorage, so your changes stay in that browser until you clear site storage.
+- PDF export uses your browser's print dialog, where you can choose Save as PDF.
