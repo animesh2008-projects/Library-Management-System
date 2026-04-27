@@ -23,11 +23,11 @@ A complete browser-based library management system with:
 - Local browser persistence with seeded demo data
 ### Default login credentials
 # Admin
-- Login ID: admin01
-- Password: Admin@123
+- Login ID: `admin01`
+- Password: `Admin@123`
 # Student
-- Login ID: STU1001
-- Password: Student@123
+- Login ID: `STU1001`
+- Password: `Student@123`
 ## How to run
 - Open index.html in any modern browser.
 - Sign in with one of the demo accounts.
