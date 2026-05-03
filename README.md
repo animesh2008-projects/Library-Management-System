@@ -1,5 +1,5 @@
 # Library-Management-System
-#### Preview: [Library Management System](library-portal-page.netlify.app)
+#### To See Preview: library-portal-page.netlify.app
 
 ** Library Management Portal
 #### Made by Animesh Karmakar
